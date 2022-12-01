@@ -14,10 +14,10 @@ sections:
       text:
       design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+        columns: '2'
         background:
-    color: 'navy'
-    text_color_light: true
+        color: 'navy'
+        text_color_light: true
   - block: features
     content:
       title: Skills
